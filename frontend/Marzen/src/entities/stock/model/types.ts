@@ -1,4 +1,4 @@
-/** Типы данных для акций — дополни по мере развития модели. */
+/** Stock data types - expand as the model evolves. */
 export type StockSymbol = string;
 
 export type Stock = {
