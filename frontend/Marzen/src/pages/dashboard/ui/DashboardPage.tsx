@@ -10,7 +10,7 @@ export const DashboardPage = () => {
           <h1 className="text-3xl font-bold text-gray-900 flex items-center gap-2">
             <LayoutDashboard className="text-[#E91E63]" /> Market Overview
           </h1>
-          <p className="text-gray-500 mt-1">Отслеживайте мировые индексы и свои активы в реальном времени.</p>
+          <p className="text-gray-500 mt-1">Отслеживайте world indixes и свои активы в real времени.</p>
         </div>
         
         <div className="flex gap-2">
